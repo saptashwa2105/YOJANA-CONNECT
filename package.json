@@ -1,0 +1,12 @@
+{
+  "name": "yojana-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix yojana-connect run dev",
+    "build": "npm --prefix yojana-connect run build",
+    "start": "npm --prefix yojana-connect run start",
+    "lint": "npm --prefix yojana-connect run lint"
+  }
+}
+

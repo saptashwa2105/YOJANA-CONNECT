@@ -1,0 +1,7 @@
+{
+  "framework": "nextjs",
+  "installCommand": "npm --prefix yojana-connect install",
+  "buildCommand": "npm --prefix yojana-connect run build",
+  "outputDirectory": "yojana-connect/.next"
+}
+
