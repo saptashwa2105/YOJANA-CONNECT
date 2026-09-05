@@ -1,0 +1,32 @@
+{
+  "id": "higher-education-grant",
+  "name": "Central Sector Scheme of Scholarships for College and University Students (Higher Education Grants)",
+  "category": "Education & Scholarships",
+  "description": "Merit-cum-means financial assistance grant provided by the Ministry of Education to students pursuing regular higher education graduate and postgraduate degrees in recognized colleges and universities.",
+  "benefits": "₹12,000 per annum at graduation level for the first three years of college, and ₹20,000 per annum at postgraduate level. Disbursed directly into the student's savings bank account via Direct Benefit Transfer (DBT).",
+  "eligibility": "Students aged 17 to 25 years who have passed Class 12 (scoring above 80th percentile) and are enrolled in regular full-time undergraduate or postgraduate courses in recognized colleges or universities across India, including Madhya Pradesh. Annual family income must not exceed ₹4,50,000 per annum. Must not be availing of any other concurrent central government scholarship.",
+  "documents": "Class 12 Marksheet, College Admission Letter or Valid Student ID, Family Income Certificate issued by competent revenue authority, Aadhaar Card, Bank Account Details (student's own account with Aadhaar seeding).",
+  "application_process": "1. Apply online through the National Scholarship Portal (scholarships.gov.in).\n2. Choose Department of Higher Education Central Sector Scheme.\n3. Enter academic roll number, college details, and annual household income.\n4. Upload verified documents and submit for college verification.\n5. Upon institutional and state approval, scholarship funds are credited via DBT.",
+  "official_url": "https://scholarships.gov.in",
+  "source_url": "https://www.education.gov.in/scholarships",
+  "last_updated": "2026-09-04",
+  "eligibility_criteria": {
+    "occupations": ["Student", "Youth"],
+    "categories": ["Education & Scholarships", "Education", "Scholarship"],
+    "states": ["All", "Madhya Pradesh"],
+    "min_age": 17,
+    "max_age": 25,
+    "max_annual_income": 450000,
+    "target_group": "Undergraduate and postgraduate college students"
+  },
+  "tags": [
+    "student",
+    "scholarship",
+    "education",
+    "higher education",
+    "college grant",
+    "madhya pradesh",
+    "DBT"
+  ]
+}
+

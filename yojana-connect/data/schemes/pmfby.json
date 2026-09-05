@@ -1,0 +1,45 @@
+{
+  "id": "pmfby",
+  "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+  "category": "Agriculture",
+  "description": "PMFBY is a Government of India crop-insurance scheme intended to support farmers against crop loss or damage from specified unforeseen events.",
+  "benefits": "The scheme provides crop-insurance support for specified crop losses. Official guidance states that farmer premium is capped at 2% of sum insured for Kharif crops, 1.5% for Rabi crops, and 5% for annual commercial or horticultural crops; other applicable premium support is provided under scheme rules.",
+  "eligibility": "Coverage depends on notified crops, notified areas, seasons, and applicable scheme guidelines. Farmers should confirm eligibility, enrolment dates, and coverage with the official portal, their bank, insurer, or local agriculture office.",
+  "documents": "Required documents and enrolment details can vary by season, State, crop, and enrolment channel. Confirm the current list through the official PMFBY portal or your enrolment channel.",
+  "application_process": "Use the Farmer Corner on the official PMFBY portal to apply for crop insurance or contact the relevant bank, insurer, or agriculture authority for the notified season.",
+  "official_url": "https://pmfby.gov.in/home",
+  "source_url": "https://www.pmfby.gov.in/faq",
+  "last_updated": "2026-09-04",
+  "eligibility_criteria": {
+    "occupations": [
+      "Farmer",
+      "Agricultural Worker",
+      "Sharecropper"
+    ],
+    "categories": [
+      "Agriculture",
+      "Crop Insurance"
+    ],
+    "states": [
+      "All"
+    ],
+    "min_age": 18,
+    "max_age": null,
+    "max_annual_income": null,
+    "target_group": "Farmers growing notified crops in notified areas",
+    "tags": [
+      "farmer",
+      "agriculture",
+      "crop insurance",
+      "disaster relief",
+      "PMFBY"
+    ]
+  },
+  "tags": [
+    "farmer",
+    "agriculture",
+    "crop insurance",
+    "disaster relief",
+    "PMFBY"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "pmgkay",
+  "name": "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY)",
+  "category": "Food Security",
+  "description": "PMGKAY is a food-security programme that provides free foodgrains to eligible ration-card holders covered under the National Food Security Act framework.",
+  "benefits": "Official myScheme information states that Antyodaya Anna Yojana families receive 35 kg of foodgrains per family per month and Priority Household beneficiaries receive 5 kg per person per month, subject to current rules and identification. Foodgrains are provided free of cost under the programme.",
+  "eligibility": "Eligibility is for Antyodaya Anna Yojana and Priority Household categories identified under the applicable food-security processes. State and Union Territory authorities determine card categories and final entitlement.",
+  "documents": "Use a ration card and, where applicable, the identity or authentication requirements specified by the local fair-price shop and State or Union Territory authority.",
+  "application_process": "Eligible beneficiaries collect their entitlement at a fair-price shop. Check ration-card status and local procedures with the responsible food-distribution authority.",
+  "official_url": "https://www.myscheme.gov.in/schemes/pm-gkay",
+  "source_url": "https://www.myscheme.gov.in/schemes/pm-gkay",
+  "last_updated": "2026-09-04",
+  "eligibility_criteria": {
+    "occupations": [
+      "Daily Wage Worker",
+      "Agricultural Worker",
+      "Unemployed",
+      "BPL Family"
+    ],
+    "categories": [
+      "Food Security",
+      "Social Welfare"
+    ],
+    "states": [
+      "All"
+    ],
+    "min_age": 0,
+    "max_age": null,
+    "max_annual_income": 150000,
+    "target_group": "Antyodaya Anna Yojana (AAY) and Priority Household (PHH) cardholders",
+    "tags": [
+      "food security",
+      "free ration",
+      "food grains",
+      "BPL",
+      "PMGKAY"
+    ]
+  },
+  "tags": [
+    "food security",
+    "free ration",
+    "food grains",
+    "BPL",
+    "PMGKAY"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "pmay-u",
+  "name": "Pradhan Mantri Awas Yojana - Urban (PMAY-U)",
+  "category": "Housing",
+  "description": "PMAY-U is an urban housing scheme of the Ministry of Housing and Urban Affairs that supports the Housing for All objective for eligible urban households.",
+  "benefits": "The programme supports affordable housing through applicable components and current guidelines. The kind and amount of assistance depend on the relevant component, location, and approved application.",
+  "eligibility": "Official scheme information lists income categories and housing conditions among its checks. Applicants and family members generally must meet the current scheme conditions, including the applicable no-pucca-house and location requirements. Authorities make the final determination.",
+  "documents": "The official application process may require identity, residence, income, bank, and housing-related documents. Confirm the current requirements on the official PMAY-U portal before applying.",
+  "application_process": "Use the official PMAY-U portal and select the current application option. Read the applicable eligibility criteria before submitting information or Aadhaar-authentication consent.",
+  "official_url": "https://pmay-urban.gov.in/",
+  "source_url": "https://www.myscheme.gov.in/schemes/pmay-u",
+  "last_updated": "2026-09-04",
+  "eligibility_criteria": {
+    "occupations": [
+      "Salaried Employee",
+      "Self-Employed",
+      "Daily Wage Worker",
+      "Urban Poor"
+    ],
+    "categories": [
+      "Housing",
+      "Urban Housing"
+    ],
+    "states": [
+      "All"
+    ],
+    "min_age": 18,
+    "max_age": null,
+    "max_annual_income": 1800000,
+    "target_group": "Urban poor and middle-income families (EWS, LIG, MIG) seeking affordable housing",
+    "tags": [
+      "housing",
+      "urban housing",
+      "interest subsidy",
+      "home loan",
+      "PMAY-U"
+    ]
+  },
+  "tags": [
+    "housing",
+    "urban housing",
+    "interest subsidy",
+    "home loan",
+    "PMAY-U"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pmmy",
+  "name": "Pradhan Mantri Mudra Yojana (PMMY)",
+  "category": "Financial Inclusion",
+  "description": "Pradhan Mantri Mudra Yojana provides collateral-free institutional credit up to ₹10 Lakh (and up to ₹20 Lakh under enhanced category) to micro and small non-farm enterprises for income-generating activities.",
+  "benefits": "Offers collateral-free loans across categories: Shishu (up to ₹50,000), Kishor (₹50,001 to ₹5 Lakh), Tarun (₹5,00,001 to ₹10 Lakh), and Tarun Plus (up to ₹20 Lakh). No third-party collateral or mortgage is required, and a Mudra debit card is issued for working capital withdrawals.",
+  "eligibility": "Any Indian citizen with a viable business plan for non-farm income-generating activities such as manufacturing, processing, trading, or service sector. Borrower must not be a defaulter with any financial institution.",
+  "documents": "Identity proof (Aadhaar, Voter ID, PAN card), address proof (electricity bill, ration card), business project report or quotation for machinery/supplies, and bank statements for the past 6 months.",
+  "application_process": "Prepare a business project summary and apply online through the Udyami Mitra portal (udyamimitra.in) or visit any commercial bank, Regional Rural Bank (RRB), Small Finance Bank, or micro-finance institution.",
+  "official_url": "https://www.mudra.org.in",
+  "source_url": "https://www.myscheme.gov.in/schemes/pmmy",
+  "last_updated": "2026-09-04",
+  "eligibility_criteria": {
+    "occupations": [
+      "Self-Employed",
+      "Business Owner",
+      "Entrepreneur",
+      "Artisan"
+    ],
+    "categories": [
+      "Financial Inclusion",
+      "Business Loans",
+      "MSME"
+    ],
+    "states": [
+      "All"
+    ],
+    "min_age": 18,
+    "max_age": null,
+    "max_annual_income": null,
+    "target_group": "Non-corporate, non-farm small and micro enterprise entrepreneurs",
+    "tags": [
+      "business loan",
+      "microfinance",
+      "entrepreneur",
+      "MUDRA",
+      "collateral free"
+    ]
+  },
+  "tags": [
+    "business loan",
+    "microfinance",
+    "entrepreneur",
+    "MUDRA",
+    "collateral free"
+  ]
+}

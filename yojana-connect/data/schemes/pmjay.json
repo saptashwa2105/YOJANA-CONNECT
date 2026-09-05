@@ -1,0 +1,47 @@
+{
+  "id": "pmjay",
+  "name": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
+  "category": "Healthcare",
+  "description": "Ayushman Bharat PM-JAY is the flagship national public health insurance fund of the Government of India that provides free health coverage for secondary and tertiary healthcare hospitalizations to low income citizens.",
+  "benefits": "Provides cashless and paperless health coverage up to ₹5,00,000 per family per year for secondary and tertiary care hospitalization across all empaneled public and private hospitals nationwide. Covers up to 3 days of pre-hospitalization and 15 days of post-hospitalization expenses including diagnostic tests and medicines.",
+  "eligibility": "Targeted at families identified based on deprivation and occupational criteria as per the Socio-Economic Caste Census (SECC) 2011 database. There is no restriction on family size, age, or gender.",
+  "documents": "Official documents include Aadhaar card or Ration card, government-issued photo ID proof, and an active mobile number for authentication and Golden Card generation.",
+  "application_process": "Check eligibility online at mera.pmjay.gov.in or visit a nearby Common Service Center (CSC) or empaneled hospital. Carry Aadhaar Card and Ration Card to the Ayushman Mitra help desk, undergo biometric e-KYC verification, and receive the Ayushman Golden Card.",
+  "official_url": "https://pmjay.gov.in",
+  "source_url": "https://www.myscheme.gov.in/schemes/ab-pmjay",
+  "last_updated": "2026-09-04",
+  "eligibility_criteria": {
+    "occupations": [
+      "Daily Wage Worker",
+      "Agricultural Worker",
+      "Artisan",
+      "Unorganized Worker",
+      "BPL Family"
+    ],
+    "categories": [
+      "Healthcare",
+      "Health Insurance"
+    ],
+    "states": [
+      "All"
+    ],
+    "min_age": 0,
+    "max_age": null,
+    "max_annual_income": 250000,
+    "target_group": "Vulnerable families identified under SECC 2011",
+    "tags": [
+      "health insurance",
+      "cashless hospitalization",
+      "Ayushman Bharat",
+      "PM-JAY",
+      "healthcare"
+    ]
+  },
+  "tags": [
+    "health insurance",
+    "cashless hospitalization",
+    "Ayushman Bharat",
+    "PM-JAY",
+    "healthcare"
+  ]
+}

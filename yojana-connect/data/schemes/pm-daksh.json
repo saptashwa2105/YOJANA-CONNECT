@@ -1,0 +1,47 @@
+{
+  "id": "pm-daksh",
+  "name": "PM-DAKSH",
+  "category": "Skill Development",
+  "description": "PM-DAKSH is a skill-development programme of the Ministry of Social Justice and Empowerment for specified marginalised groups. It offers upskilling, reskilling, short-term training, and entrepreneurial-development courses.",
+  "benefits": "Official myScheme information states that training is provided free of cost, with a stipend during training where applicable. Successful candidates receive certification, and the programme provides post-training support for employment or self-employment opportunities.",
+  "eligibility": "Official eligibility includes Indian nationals aged 18 to 45 from the specified SC, OBC, EWS, DNT, or Safai Mitra groups. Income and other requirements vary by category; confirm the current rules before applying.",
+  "documents": "Official information lists documents such as Aadhaar where applicable, photograph, caste or community certificate, income certificate where applicable, age and residence proof, educational documents, and Aadhaar-linked bank details.",
+  "application_process": "Register as a Learner or Participant on the Skill India Digital Hub, verify the profile through the required process, and follow the current PM-DAKSH application guidance.",
+  "official_url": "https://www.myscheme.gov.in/schemes/pm-daksh",
+  "source_url": "https://www.myscheme.gov.in/schemes/pm-daksh",
+  "last_updated": "2026-09-04",
+  "eligibility_criteria": {
+    "occupations": [
+      "Youth",
+      "Student",
+      "Artisan",
+      "Sanitation Worker",
+      "Unorganized Worker"
+    ],
+    "categories": [
+      "Skill Development",
+      "Youth Training"
+    ],
+    "states": [
+      "All"
+    ],
+    "min_age": 18,
+    "max_age": 45,
+    "max_annual_income": 300000,
+    "target_group": "Youth and marginalized persons for skill training and stipend",
+    "tags": [
+      "skill development",
+      "training",
+      "youth",
+      "stipend",
+      "PM-DAKSH"
+    ]
+  },
+  "tags": [
+    "skill development",
+    "training",
+    "youth",
+    "stipend",
+    "PM-DAKSH"
+  ]
+}

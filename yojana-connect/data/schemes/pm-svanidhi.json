@@ -1,0 +1,45 @@
+{
+  "id": "pm-svanidhi",
+  "name": "PM Street Vendor's AtmaNirbhar Nidhi (PM SVANidhi)",
+  "category": "Financial Inclusion",
+  "description": "PM SVANidhi is a micro-credit scheme launched by the Ministry of Housing and Urban Affairs to provide collateral-free working capital loans to street vendors to resume and expand their livelihoods.",
+  "benefits": "Provides initial working capital loan up to ₹10,000; second tranche up to ₹20,000; and third tranche up to ₹50,000 upon timely repayment. Offers an interest subsidy of 7% per annum credited quarterly to the beneficiary's bank account, plus monthly cashback up to ₹100 for digital transactions.",
+  "eligibility": "Available to all street vendors, hawkers, and cart vendors engaged in vending in urban and peri-urban areas on or before the qualifying scheme dates, possessing a Certificate of Vending or Letter of Recommendation from local Urban Local Bodies (ULBs).",
+  "documents": "Aadhaar card, Certificate of Vending (CoV) or Letter of Recommendation (LoR) from Urban Local Body, active bank account passbook, and Aadhaar-linked mobile number.",
+  "application_process": "Apply online at pmsvanidhi.mohua.gov.in or visit a nearby Common Service Center (CSC). Authenticate using Aadhaar, submit vending details, select your preferred lending institution, and submit.",
+  "official_url": "https://pmsvanidhi.mohua.gov.in",
+  "source_url": "https://www.myscheme.gov.in/schemes/pm-svanidhi",
+  "last_updated": "2026-09-04",
+  "eligibility_criteria": {
+    "occupations": [
+      "Street Vendor",
+      "Hawker",
+      "Daily Wage Worker"
+    ],
+    "categories": [
+      "Financial Inclusion",
+      "Urban Livelihood"
+    ],
+    "states": [
+      "All"
+    ],
+    "min_age": 18,
+    "max_age": null,
+    "max_annual_income": null,
+    "target_group": "Urban and peri-urban street vendors and hawkers",
+    "tags": [
+      "street vendor",
+      "micro loan",
+      "financial inclusion",
+      "PM SVANidhi",
+      "working capital"
+    ]
+  },
+  "tags": [
+    "street vendor",
+    "micro loan",
+    "financial inclusion",
+    "PM SVANidhi",
+    "working capital"
+  ]
+}

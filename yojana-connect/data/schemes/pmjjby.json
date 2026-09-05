@@ -1,0 +1,44 @@
+{
+  "id": "pmjjby",
+  "name": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+  "category": "Insurance",
+  "description": "PMJJBY is a one-year renewable term-life-insurance scheme that provides cover for death due to any cause.",
+  "benefits": "The official Department of Financial Services FAQ states that Rs. 2 lakh is payable on the subscriber's death due to any cause. The stated annual premium is Rs. 436 per subscriber, subject to current scheme terms.",
+  "eligibility": "The official FAQ states that eligible participating bank or post-office account holders aged 18 to 50 may join, subject to scheme terms. Check the current terms with the participating institution before enrolling.",
+  "documents": "The participating bank or post office can confirm the current consent, account, and identification requirements.",
+  "application_process": "Enrol through a participating bank or post office account and provide the required auto-debit consent under the current scheme process.",
+  "official_url": "https://financialservices.gov.in/pmjjby",
+  "source_url": "https://financialservices.gov.in/pmjjby",
+  "last_updated": "2026-09-04",
+  "eligibility_criteria": {
+    "occupations": [
+      "Salaried Employee",
+      "Self-Employed",
+      "Daily Wage Worker",
+      "Unorganized Worker"
+    ],
+    "categories": [
+      "Insurance",
+      "Life Insurance"
+    ],
+    "states": [
+      "All"
+    ],
+    "min_age": 18,
+    "max_age": 50,
+    "max_annual_income": null,
+    "target_group": "Any bank or post office account holder aged 18 to 50 years",
+    "tags": [
+      "insurance",
+      "life insurance",
+      "social security",
+      "PMJJBY"
+    ]
+  },
+  "tags": [
+    "insurance",
+    "life insurance",
+    "social security",
+    "PMJJBY"
+  ]
+}

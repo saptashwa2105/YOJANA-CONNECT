@@ -1,0 +1,45 @@
+{
+  "id": "pm-kisan",
+  "name": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+  "category": "Agriculture",
+  "description": "PM-KISAN is a Central Sector scheme funded by the Government of India. It provides income support to eligible landholding farmer families.",
+  "benefits": "Eligible landholding farmer families receive income support of Rs. 6,000 per year in three equal instalments. The money is transferred directly to beneficiaries' bank accounts.",
+  "eligibility": "The scheme covers landholding farmer families as identified under the scheme guidelines and State or Union Territory land records. A farmer family means husband, wife, and minor children who own cultivable land. Institutional landholders and several higher-economic-status categories are excluded. Final eligibility is determined under the official scheme guidelines and by the relevant authorities.",
+  "documents": "Official guidance says beneficiary records include name, age, gender, category, Aadhaar number or Aadhaar enrolment number where applicable, bank account number, and IFSC code. The State or Union Territory may require prescribed identity documents where Aadhaar is unavailable.",
+  "application_process": "Use the New Farmer Registration service on the official PM-KISAN portal. The State or Union Territory administration identifies eligible farmer families under the scheme guidelines. Check your status through the official portal or mobile app.",
+  "official_url": "https://www.pmkisan.gov.in/",
+  "source_url": "https://pmkisan.gov.in/Documents/RevisedPM-KISANOperationalGuidelines%28English%29.pdf",
+  "last_updated": "2026-09-04",
+  "eligibility_criteria": {
+    "occupations": [
+      "Farmer",
+      "Agricultural Worker",
+      "Landholding Farmer"
+    ],
+    "categories": [
+      "Agriculture",
+      "Farming"
+    ],
+    "states": [
+      "All"
+    ],
+    "min_age": 18,
+    "max_age": null,
+    "max_annual_income": null,
+    "target_group": "Landholding farmer families with cultivable land",
+    "tags": [
+      "farmer",
+      "agriculture",
+      "income support",
+      "PM-KISAN",
+      "DBT"
+    ]
+  },
+  "tags": [
+    "farmer",
+    "agriculture",
+    "income support",
+    "PM-KISAN",
+    "DBT"
+  ]
+}

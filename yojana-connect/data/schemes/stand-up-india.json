@@ -1,0 +1,46 @@
+{
+  "id": "stand-up-india",
+  "name": "Stand-Up India Scheme",
+  "category": "Financial Inclusion",
+  "description": "Stand-Up India is a scheme designed to promote grassroots entrepreneurship among women and Scheduled Caste (SC) / Scheduled Tribe (ST) individuals by facilitating institutional bank loans for greenfield ventures.",
+  "benefits": "Facilitates composite bank loans (term loan and working capital) between ₹10,00,000 and ₹1,00,00,000 to cover up to 85% of project cost for setting up new enterprises. Includes handholding and mentorship support through SIDBI.",
+  "eligibility": "Borrower must be a Scheduled Caste (SC), Scheduled Tribe (ST), or Woman entrepreneur aged 18 years or above. The enterprise must be a greenfield project in manufacturing, services, agri-allied activities, or the trading sector. In non-individual enterprises, 51% shareholding must be held by SC/ST or woman.",
+  "documents": "Identity and address proof (Aadhaar, Voter ID, Passport), caste certificate (for SC/ST), detailed project report (DPR), bank statements for the past 6 months, and company registration documents if applicable.",
+  "application_process": "Register online at standupmitra.in or directly visit a commercial bank branch. Connect with handholding agencies or apply directly to lead lenders with your DPR and requisite documentation.",
+  "official_url": "https://www.standupmitra.in",
+  "source_url": "https://www.myscheme.gov.in/schemes/stand-up-india",
+  "last_updated": "2026-09-04",
+  "eligibility_criteria": {
+    "occupations": [
+      "Self-Employed",
+      "Business Owner",
+      "Entrepreneur"
+    ],
+    "categories": [
+      "Financial Inclusion",
+      "Business Loans",
+      "Women & SC/ST"
+    ],
+    "states": [
+      "All"
+    ],
+    "min_age": 18,
+    "max_age": null,
+    "max_annual_income": null,
+    "target_group": "Scheduled Caste (SC), Scheduled Tribe (ST), or Women entrepreneurs setting up greenfield enterprises",
+    "tags": [
+      "business loan",
+      "women entrepreneur",
+      "SC/ST",
+      "greenfield",
+      "Stand-Up India"
+    ]
+  },
+  "tags": [
+    "business loan",
+    "women entrepreneur",
+    "SC/ST",
+    "greenfield",
+    "Stand-Up India"
+  ]
+}

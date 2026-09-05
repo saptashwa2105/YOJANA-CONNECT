@@ -1,0 +1,44 @@
+{
+  "id": "ssy",
+  "name": "Sukanya Samriddhi Yojana (SSY)",
+  "category": "Women & Child",
+  "description": "Sukanya Samriddhi Yojana is a government-backed small savings scheme launched under the Beti Bachao Beti Padhao campaign, designed to support the education and marriage expenses of female children.",
+  "benefits": "Offers high government-guaranteed interest rate (around 8.2% p.a. compounded annually) and complete tax exemption under Section 80C on deposit, interest accrued, and withdrawal. The account matures after 21 years from the date of opening or upon marriage after age 18.",
+  "eligibility": "The account can be opened by parents or legal guardians in the name of a girl child from birth up to age 10. Maximum two accounts are permitted per family (with exceptions for twins or triplets).",
+  "documents": "Birth certificate of the girl child, identity proof and address proof of the parent or legal guardian (Aadhaar, PAN, Voter ID), and passport-size photographs of child and parent.",
+  "application_process": "Visit any designated post office or authorised commercial bank branch, submit the completed SSY application form along with birth certificate, guardian KYC documents, and initial deposit (minimum ₹250).",
+  "official_url": "https://www.indiapost.gov.in",
+  "source_url": "https://www.myscheme.gov.in/schemes/ssy",
+  "last_updated": "2026-09-04",
+  "eligibility_criteria": {
+    "occupations": [
+      "Parent",
+      "Girl Child Guardian"
+    ],
+    "categories": [
+      "Women & Child",
+      "Savings"
+    ],
+    "states": [
+      "All"
+    ],
+    "min_age": 0,
+    "max_age": 10,
+    "max_annual_income": null,
+    "target_group": "Girl children from birth up to age 10 through parents or guardians",
+    "tags": [
+      "girl child",
+      "education savings",
+      "Sukanya Samriddhi",
+      "high interest",
+      "tax free"
+    ]
+  },
+  "tags": [
+    "girl child",
+    "education savings",
+    "Sukanya Samriddhi",
+    "high interest",
+    "tax free"
+  ]
+}
