@@ -1,0 +1,44 @@
+{
+  "id": "pm-poshan",
+  "name": "PM POSHAN (Pradhan Mantri Poshan Shakti Nirman)",
+  "category": "Education & Nutrition",
+  "description": "PM POSHAN is a centrally sponsored scheme that provides one hot cooked nutritious meal per school day to children studying in government and government-aided primary and upper primary classes.",
+  "benefits": "Provides hot cooked meals providing 450 calories and 12g protein for primary classes (I-V), and 700 calories and 20g protein for upper primary classes (VI-VIII). Aims to improve the nutritional status of children, encourage school attendance, and promote social equity.",
+  "eligibility": "All students enrolled in government, local body, and government-aided primary and upper primary schools, as well as Special Training Centers (STCs) across India.",
+  "documents": "School enrollment record. No separate individual documentation or paperwork is required by students or parents.",
+  "application_process": "Automatic entitlement upon enrollment and attendance in any participating government or government-aided school. No application process needed.",
+  "official_url": "https://pmposhan.education.gov.in",
+  "source_url": "https://www.myscheme.gov.in/schemes/pm-poshan",
+  "last_updated": "2026-09-04",
+  "eligibility_criteria": {
+    "occupations": [
+      "Student",
+      "School Student"
+    ],
+    "categories": [
+      "Education & Nutrition",
+      "Education"
+    ],
+    "states": [
+      "All"
+    ],
+    "min_age": 5,
+    "max_age": 14,
+    "max_annual_income": null,
+    "target_group": "Primary and upper primary school students (Classes I-VIII)",
+    "tags": [
+      "student",
+      "school",
+      "nutrition",
+      "mid-day meal",
+      "education"
+    ]
+  },
+  "tags": [
+    "student",
+    "school",
+    "nutrition",
+    "mid-day meal",
+    "education"
+  ]
+}

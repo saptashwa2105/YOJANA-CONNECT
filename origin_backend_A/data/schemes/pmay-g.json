@@ -1,0 +1,45 @@
+{
+  "id": "pmay-g",
+  "name": "Pradhan Mantri Awaas Yojana - Gramin (PMAY-G)",
+  "category": "Housing",
+  "description": "PMAY-G is a rural housing programme of the Ministry of Rural Development. Its stated aim is to provide pucca houses with basic amenities to eligible rural households, including houseless households and households living in kutcha or dilapidated houses.",
+  "benefits": "The programme provides housing assistance under applicable guidelines. Assistance amounts, convergence benefits, and implementation details can vary by location and current guidelines.",
+  "eligibility": "Eligibility is determined through official identification and scheme processes for rural households. Final eligibility and beneficiary selection are determined by the responsible authorities under current PMAY-G rules.",
+  "documents": "Check the official PMAY-G portal or local rural-development authority for the current documents and verification requirements.",
+  "application_process": "Use the official PMAY-G portal to check available services and status, or contact the local rural-development authority for beneficiary identification and application support.",
+  "official_url": "https://pmayg.dord.gov.in/",
+  "source_url": "https://pmayg.dord.gov.in/netiayHome/about.aspx",
+  "last_updated": "2026-09-04",
+  "eligibility_criteria": {
+    "occupations": [
+      "Agricultural Worker",
+      "Daily Wage Worker",
+      "Rural Poor"
+    ],
+    "categories": [
+      "Housing",
+      "Rural Development"
+    ],
+    "states": [
+      "All"
+    ],
+    "min_age": 18,
+    "max_age": null,
+    "max_annual_income": 150000,
+    "target_group": "Rural houseless families and those living in kutcha/dilapidated houses",
+    "tags": [
+      "housing",
+      "pucca house",
+      "rural development",
+      "PMAY-G",
+      "subsidy"
+    ]
+  },
+  "tags": [
+    "housing",
+    "pucca house",
+    "rural development",
+    "PMAY-G",
+    "subsidy"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "pmuy",
+  "name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+  "category": "Clean Cooking Fuel",
+  "description": "PMUY is a Government of India scheme intended to make clean LPG cooking fuel available to eligible poor households, especially rural and deprived households that may otherwise use traditional cooking fuels.",
+  "benefits": "Eligible beneficiaries receive a deposit-free LPG connection. Official PMUY information says the support covers the cylinder security deposit, regulator, hose, consumer card, and installation-related charges; the first refill and stove are also provided free of cost under the stated benefits.",
+  "eligibility": "The applicant must be an adult woman aged 18 or above from a poor household under the prescribed declaration process, and the household must not already have an LPG connection from an Oil Marketing Company. Current scheme rules and verification determine final eligibility.",
+  "documents": "Official PMUY information lists KYC, family-composition documentation or permitted alternative declaration, Aadhaar for the beneficiary and relevant adult family members, proof of address where applicable, and bank account number with IFSC code.",
+  "application_process": "Apply for a PMUY connection through the official PMUY services or an authorised LPG distributor. Complete the required KYC and verification steps.",
+  "official_url": "https://www.pmuy.gov.in/index.aspx",
+  "source_url": "https://www.pmuy.gov.in/faq.html",
+  "last_updated": "2026-09-04",
+  "eligibility_criteria": {
+    "occupations": [
+      "Homemaker",
+      "Rural Woman"
+    ],
+    "categories": [
+      "Clean Cooking Fuel",
+      "Women Empowerment"
+    ],
+    "states": [
+      "All"
+    ],
+    "min_age": 18,
+    "max_age": null,
+    "max_annual_income": 150000,
+    "target_group": "Adult women from BPL / SC / ST / PMAY households without LPG connection",
+    "tags": [
+      "clean cooking",
+      "LPG connection",
+      "women empowerment",
+      "BPL",
+      "PMUY"
+    ]
+  },
+  "tags": [
+    "clean cooking",
+    "LPG connection",
+    "women empowerment",
+    "BPL",
+    "PMUY"
+  ]
+}

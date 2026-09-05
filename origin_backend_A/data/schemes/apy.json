@@ -1,0 +1,43 @@
+{
+  "id": "apy",
+  "name": "Atal Pension Yojana (APY)",
+  "category": "Social Security",
+  "description": "Atal Pension Yojana is a government-backed guaranteed pension scheme in India aimed primarily at providing old-age income security to unorganised sector workers.",
+  "benefits": "Subscribers receive a guaranteed monthly pension of ₹1,000, ₹2,000, ₹3,000, ₹4,000, or ₹5,000 after reaching 60 years of age, based on their contributions. The same pension amount is payable to the spouse upon the subscriber's demise, and accumulated pension wealth is returned to the nominee.",
+  "eligibility": "Open to all Indian citizens aged between 18 and 40 years who have a savings bank or post office account. Subscribers must not be income tax payers or members of any statutory social security scheme.",
+  "documents": "Aadhaar card, active savings bank account passbook with auto-debit consent, nominee details, and an active mobile number.",
+  "application_process": "Visit the bank branch or post office where your savings account is held, fill out the APY registration form specifying your desired pension tier, submit auto-debit instructions, and receive your PRAN acknowledgement slip.",
+  "official_url": "https://www.npscra.nsdl.co.in",
+  "source_url": "https://www.myscheme.gov.in/schemes/apy",
+  "last_updated": "2026-09-04",
+  "eligibility_criteria": {
+    "occupations": [
+      "Unorganized Worker",
+      "Self-Employed",
+      "Daily Wage Worker"
+    ],
+    "categories": [
+      "Social Security",
+      "Pension"
+    ],
+    "states": [
+      "All"
+    ],
+    "min_age": 18,
+    "max_age": 40,
+    "max_annual_income": null,
+    "target_group": "Citizens aged 18-40 in unorganized sector",
+    "tags": [
+      "pension",
+      "retirement",
+      "social security",
+      "APY"
+    ]
+  },
+  "tags": [
+    "pension",
+    "retirement",
+    "social security",
+    "APY"
+  ]
+}

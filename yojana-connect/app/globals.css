@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Swiper Coverflow & Custom Pagination Dark Theme */
+.swiper-pagination-bullet {
+  background: #ffffff !important;
+  opacity: 0.35 !important;
+  width: 6px !important;
+  height: 6px !important;
+  margin: 0 3px !important;
+  transition: all 0.25s ease !important;
+  cursor: pointer;
+}
+
+.swiper-pagination-bullet-active {
+  background: #ffffff !important;
+  opacity: 1 !important;
+  width: 22px !important;
+  border-radius: 9999px !important;
+}
+
+.swiper-coverflow {
+  overflow: visible !important;
+}
+
+.swiper-coverflow .swiper-slide {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  transform-style: preserve-3d;
+}
+
+/* RGB Gradient Border Hover Animation */
+@keyframes rgb-spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.animate-rgb-spin {
+  animation: rgb-spin 4s linear infinite;
+}
+
+

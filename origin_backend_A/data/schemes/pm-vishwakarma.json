@@ -1,0 +1,46 @@
+{
+  "id": "pm-vishwakarma",
+  "name": "PM Vishwakarma Scheme",
+  "category": "Skill Development",
+  "description": "PM Vishwakarma is a Central Sector Scheme designed to support traditional artisans and craftspeople who work with their hands and tools across 18 traditional family trades.",
+  "benefits": "Provides official PM Vishwakarma Certificate and ID Card, 5-7 days basic training and 15 days advanced training with ₹500/day stipend, a ₹15,000 digital voucher grant for purchasing modern toolkits, and collateral-free enterprise credit up to ₹1,00,000 (1st tranche) and ₹2,00,000 (2nd tranche) at a concessional interest rate of 5%.",
+  "eligibility": "Indian artisans and craftspeople engaged in one of the 18 specified traditional trades on self-employment basis. Minimum age 18 years. Limited to one member per family. Must not have availed similar government loans in the last 5 years.",
+  "documents": "Aadhaar card linked to mobile number, bank account details, ration card or family composition declaration, and trade verification declaration.",
+  "application_process": "Register through Common Service Centers (CSCs) on pmvishwakarma.gov.in using Aadhaar biometric authentication. Applications pass through 3-tier verification (Gram Panchayat/ULB, District Implementation Committee, and Screening Committee).",
+  "official_url": "https://pmvishwakarma.gov.in",
+  "source_url": "https://www.myscheme.gov.in/schemes/pm-vishwakarma",
+  "last_updated": "2026-09-04",
+  "eligibility_criteria": {
+    "occupations": [
+      "Artisan",
+      "Craftsperson",
+      "Traditional Craftsman"
+    ],
+    "categories": [
+      "Skill Development",
+      "Handicrafts",
+      "Artisan"
+    ],
+    "states": [
+      "All"
+    ],
+    "min_age": 18,
+    "max_age": null,
+    "max_annual_income": null,
+    "target_group": "Traditional artisans and craftspeople across 18 specified trades",
+    "tags": [
+      "artisan",
+      "craftsperson",
+      "skill training",
+      "collateral free loan",
+      "PM Vishwakarma"
+    ]
+  },
+  "tags": [
+    "artisan",
+    "craftsperson",
+    "skill training",
+    "collateral free loan",
+    "PM Vishwakarma"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "post-matric-scholarship",
+  "name": "Post-Matric Scholarship Scheme for Students",
+  "category": "Education & Scholarships",
+  "description": "Provides financial assistance and maintenance allowances to students studying at the post-matriculation or post-secondary stage (Class 11, Class 12, ITI, Diploma, Undergraduate, and Postgraduate degrees) to enable them to complete their education.",
+  "benefits": "Covers compulsory non-refundable fees (tuition and examination fees), monthly maintenance allowance ranging from ₹2,500 to ₹13,500 per year, book allowances, and disability support. Transferred directly to the student's Aadhaar-linked bank account via DBT.",
+  "eligibility": "Open to Indian students enrolled in recognized post-matric courses (Class 11 through Post-Graduation) in government or recognized private institutions. Actively available in Madhya Pradesh (via MP State Scholarship Portal 2.0 / MMVY) and nationwide. Annual family income must not exceed ₹2,50,000 per annum (up to ₹6,00,000 for state specific higher tiers). Eligible age range is 15 to 30 years.",
+  "documents": "Class 10/12 Marksheets, Aadhaar Card, Valid Family Income Certificate, Domicile Certificate (e.g., Madhya Pradesh / State Domicile), Bank Account Passbook linked to Aadhaar, Current Year College Admission Receipt or Student ID.",
+  "application_process": "1. Register on the National Scholarship Portal (scholarships.gov.in) or Madhya Pradesh State Scholarship Portal 2.0 (scholarshipportal.mp.nic.in).\n2. Complete Aadhaar e-KYC and student registration.\n3. Fill in course and academic details along with family annual income.\n4. Upload scanned copies of marksheet, income certificate, and domicile certificate.\n5. Submit for institutional and state nodal officer verification.",
+  "official_url": "https://scholarships.gov.in",
+  "source_url": "https://scholarshipportal.mp.nic.in",
+  "last_updated": "2026-09-04",
+  "eligibility_criteria": {
+    "occupations": ["Student"],
+    "categories": ["Education & Scholarships", "Education", "Scholarship"],
+    "states": ["All", "Madhya Pradesh"],
+    "min_age": 15,
+    "max_age": 30,
+    "max_annual_income": 250000,
+    "target_group": "Students enrolled in Class 11, 12, ITI, Diploma, Undergraduate, or Postgraduate courses"
+  },
+  "tags": [
+    "student",
+    "scholarship",
+    "education",
+    "higher education",
+    "post-matric",
+    "madhya pradesh",
+    "DBT grant"
+  ]
+}
+

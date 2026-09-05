@@ -1,0 +1,45 @@
+{
+  "id": "ignoaps",
+  "name": "Indira Gandhi National Old Age Pension Scheme (IGNOAPS - NSAP)",
+  "category": "Social Welfare",
+  "description": "IGNOAPS is a non-contributory old-age pension component under the National Social Assistance Programme (NSAP) providing social security and monthly financial sustenance to impoverished elderly citizens.",
+  "benefits": "Provides a central monthly pension of ₹200 per month for beneficiaries aged 60 to 79 years, and ₹500 per month for beneficiaries aged 80 years and above. Many state governments augment this base amount with state contributions up to ₹1,000 to ₹3,000 per month.",
+  "eligibility": "Applicants must be 60 years of age or older and must belong to a household living below the poverty line (BPL) according to criteria prescribed by the Government of India.",
+  "documents": "Aadhaar card, BPL ration card or verified proof of BPL status, age verification certificate (birth certificate, voter card, or school leaving certificate), and bank or post office passbook.",
+  "application_process": "Apply through the local Gram Panchayat in rural areas or Municipal Ward Office in urban areas. Submit application with BPL proof and age proof. Verification is conducted by local revenue/social welfare officers before district sanction.",
+  "official_url": "https://nsap.nic.in",
+  "source_url": "https://www.myscheme.gov.in/schemes/ignoaps",
+  "last_updated": "2026-09-04",
+  "eligibility_criteria": {
+    "occupations": [
+      "Senior Citizen",
+      "Retired",
+      "Elderly"
+    ],
+    "categories": [
+      "Social Welfare",
+      "Pension"
+    ],
+    "states": [
+      "All"
+    ],
+    "min_age": 60,
+    "max_age": null,
+    "max_annual_income": 120000,
+    "target_group": "Elderly citizens aged 60+ from BPL households",
+    "tags": [
+      "senior citizen",
+      "pension",
+      "BPL",
+      "social welfare",
+      "NSAP"
+    ]
+  },
+  "tags": [
+    "senior citizen",
+    "pension",
+    "BPL",
+    "social welfare",
+    "NSAP"
+  ]
+}

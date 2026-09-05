@@ -1,0 +1,45 @@
+{
+  "id": "kcc",
+  "name": "Kisan Credit Card (KCC) Scheme",
+  "category": "Agriculture",
+  "description": "The Kisan Credit Card scheme provides farmers with timely access to affordable institutional credit for crop cultivation, farm maintenance, allied agricultural activities, and urgent post-harvest capital requirements.",
+  "benefits": "Provides a revolving credit facility up to ₹3,00,000 at a concessional interest rate of 4% per annum (with timely repayment incentives). Withdrawals are streamlined through an ATM-enabled RuPay debit card, and built-in crop and asset insurance protection is included.",
+  "eligibility": "Open to all farmers including owner cultivators, tenant farmers, sharecroppers, oral lessees, self-help groups (SHGs), and joint liability groups (JLGs) of farmers, as well as animal husbandry and fisheries workers.",
+  "documents": "Completed and signed KCC application form, identity and residence proof (Aadhaar, Voter ID, PAN), land ownership records or tenancy agreement (Khasra, Khatauni, Pahani), and passport-size photographs.",
+  "application_process": "Obtain and complete the KCC application from your local bank branch, cooperative bank, or download from the bank portal. Submit along with land cultivation proof. The bank conducts land verification and issues the KCC RuPay card within 14 working days.",
+  "official_url": "https://agricoop.nic.in",
+  "source_url": "https://www.myscheme.gov.in/schemes/kcc",
+  "last_updated": "2026-09-04",
+  "eligibility_criteria": {
+    "occupations": [
+      "Farmer",
+      "Agricultural Worker",
+      "Cultivator"
+    ],
+    "categories": [
+      "Agriculture",
+      "Farming"
+    ],
+    "states": [
+      "All"
+    ],
+    "min_age": 18,
+    "max_age": 75,
+    "max_annual_income": null,
+    "target_group": "Owner cultivators, tenant farmers, sharecroppers, animal husbandry and fisheries workers",
+    "tags": [
+      "farmer",
+      "agriculture",
+      "credit card",
+      "crop loan",
+      "KCC"
+    ]
+  },
+  "tags": [
+    "farmer",
+    "agriculture",
+    "credit card",
+    "crop loan",
+    "KCC"
+  ]
+}
